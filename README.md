@@ -21,4 +21,33 @@ The rods can be affected by:
 * [Left force]
 * [Right force]
 
-The presence of left and right support is determined by the [Support left] and [Support right] variables
+The presence of left and right support is determined by the:
+* [Support left]
+* [Support right]
+
+
+### _In the end we get_
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ -
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ 
+
+![6](https://github.com/DLecler/SaprBar/assets/162699814/879d5f92-ac55-420a-bbfd-e6352bae32a6)
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ -
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ 
+
+![8](https://github.com/DLecler/SaprBar/assets/162699814/fc6ce766-9297-4c77-b5a3-4f84ede01593)
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ -
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _  
+
+![9](https://github.com/DLecler/SaprBar/assets/162699814/db16c2b7-2acf-4b82-8a6b-360b458fcab1)
+
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ -
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _
+
+![10](https://github.com/DLecler/SaprBar/assets/162699814/cecd3b2c-fbf4-4f2f-a910-1ef5aec1e9be)
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ -
+_ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ - _ 
+
+![11](https://github.com/DLecler/SaprBar/assets/162699814/1f25b1b3-9600-4bf9-9c8d-56e09b671a5c)
+
+
+
