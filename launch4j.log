@@ -1,0 +1,50 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Smetanka\IdeaProjects\SaprDL\SaprDL.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Smetanka\IdeaProjects\SaprDL\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.006.000_022
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\Smetanka\IdeaProjects\SaprDL\jre\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.14
+Version string: 1.011.000_014 / 64-Bit (OK)
+Check launcher:	C:\Program Files\BellSoft\LibericaJDK-11\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\BellSoft\LibericaJDK-11\bin\javac.exe (OK)
+Match:		1.011.000_014
+Runtime used:	1.011.000_014 (64-bit)
+Launcher:	C:\Program Files\BellSoft\LibericaJDK-11\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Smetanka\IdeaProjects\SaprDL\SaprDL.exe"
+Args length:	55/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Smetanka\IdeaProjects\SaprDL\SaprDL.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Smetanka\IdeaProjects\SaprDL\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.006.000_022
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\Smetanka\IdeaProjects\SaprDL\jre\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.14
+Version string: 1.011.000_014 / 64-Bit (OK)
+Check launcher:	C:\Program Files\BellSoft\LibericaJDK-11\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\BellSoft\LibericaJDK-11\bin\javac.exe (OK)
+Match:		1.011.000_014
+Runtime used:	1.011.000_014 (64-bit)
+Launcher:	C:\Program Files\BellSoft\LibericaJDK-11\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Smetanka\IdeaProjects\SaprDL\SaprDL.exe"
+Args length:	55/32768 chars
+Exit code:	0
